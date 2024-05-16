@@ -20,7 +20,7 @@
         <mybatisplus.version>3.2.0</mybatisplus.version>
         <druid.version>1.1.18</druid.version>
         <log4j.version>1.2.17</log4j.version>
-        <hutool.version>4.6.6</hutool.version>
+        <hutool.version>5.8.21</hutool.version>
     </properties>
 
     <dependencies>
